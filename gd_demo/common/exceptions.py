@@ -1,0 +1,2 @@
+class GoogleDriveDemoException(Exception):
+    pass
